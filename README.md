@@ -64,9 +64,9 @@ domain-reputation-checker/
 ├── check_domain.py     # Script principal
 ├── README.md           # Este archivo
 └── requirements.txt    # (Opcional) Lista de dependencias
+
 🛡️ Aviso Legal
-
 Esta herramienta está diseñada solo para fines educativos y de análisis legítimo. No la utilices para escanear dominios sin autorización.
-📬 Contacto
 
+📬 Contacto
 ¿Sugerencias, problemas o mejoras? Abre un issue o contáctame en david.delgado.deniz@gmail.com
